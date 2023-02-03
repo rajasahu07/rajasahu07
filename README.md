@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajasahu07&label=Profile%20views&color=0e75b6&style=flat" alt="rajasahu07" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rajasahu07" target="blank"><img src="https://img.shields.io/twitter/follow/rajasahu07?logo=twitter&style=for-the-badge" alt="rajasahu07" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RajaSah70269673" target="blank"><img src="https://img.shields.io/twitter/follow/rajasahu07?logo=twitter&style=for-the-badge" alt="@RajaSah70269673" /></a> </p>
 
 - 🌱 I’m currently learning **FullStack, React JS and C++**
 
