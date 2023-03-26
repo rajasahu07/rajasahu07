@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rajasahukbl@gmail.com**
 
-- 📄 Know about my experiences [https://app.flowcv.com/resume/content](https://app.flowcv.com/resume/content)
+- 📄 Know about my experiences [https://flowcv.com/resume/35sp04d6ss](https://flowcv.com/resume/35sp04d6ss) 
 
 - ⚡ Fun fact **I am Funny😅**
 
