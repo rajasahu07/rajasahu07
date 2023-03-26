@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/RajaSah70269673" target="blank"><img src="https://img.shields.io/twitter/follow/rajasahu07?logo=twitter&style=for-the-badge" alt="@RajaSah70269673" /></a> </p>
 
-- 🌱 I’m currently learning **FullStack, React JS and C++**
+- 🌱 I’m currently learning **Java FullStack, React JS and C++**
 
 - 💬 Ask me about **Web Development, Java, C and C++**
 
