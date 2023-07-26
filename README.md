@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rajasahu07.github.io/Portfolio/](https://rajasahu07.github.io/Portfolio/)
 
-- 💬 Ask me about **Web Technology, React, SQL, Java**
+- 💬 Ask me about **Web Technology, Libraries, Frameworks and their platforms**
 
 - 📫 How to reach me **rajasahukbl@gmail.com**
 
