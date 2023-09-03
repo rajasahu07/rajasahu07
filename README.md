@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rajasahukbl@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rajasahu-1b59071b1/]
+- 📄 Know about my experiences   https://www.linkedin.com/in/rajasahu-1b59071b1/
 
 - ⚡ Fun fact **I am Funny😅**
 
