@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Software Developments,Framework, courses etc**
 
-- 👨‍💻 All of my projects are available at [https://rajasahu07.github.io/Portfolio/](https://rajasahu07.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://rajasahu07.github.io]
 
 - 💬 Ask me about **Web Technology, Libraries, Frameworks and their platforms**
 
